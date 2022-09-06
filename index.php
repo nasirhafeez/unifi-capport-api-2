@@ -4,7 +4,7 @@ header( "Content-type: application/json" );
 
 $jsonData = [
   "captive" => true,
-  "user-portal-url" => "https://apiserver.nasirhafeez.com",
+  "user-portal-url" => "https://capport.nasirhafeez.com",
   "venue-info-url" => "https://apiserver.nasirhafeez.com",
   "seconds-remaining" => 63200,
   "can-extend-session" => true
