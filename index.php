@@ -10,4 +10,4 @@ $jsonData = [
   "can-extend-session" => true
 ];
 
-echo json_encode($jsonData, JSON_PRETTY_PRINT);
+echo json_encode($jsonData);
