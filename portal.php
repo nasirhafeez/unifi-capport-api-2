@@ -1,6 +1,7 @@
 <?php
 
-print_r($_REQUEST);
+//print_r($_REQUEST);
+header('Location: http://captive.apple.com/hotspot-detect.html')
 
 ?>
 
