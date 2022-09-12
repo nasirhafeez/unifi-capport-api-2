@@ -1,7 +1,7 @@
 <?php
 
 //print_r($_REQUEST);
-header('Location: http://captive.apple.com/hotspot-detect.html')
+header('Location: http://connectivitycheck.gstatic.com/generate_204')
 
 ?>
 <!---->
