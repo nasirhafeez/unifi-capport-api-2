@@ -8,7 +8,7 @@ $jsonData = [
 //  "venue-info-url" => "https://apiserver.nasirhafeez.com",
 //  "seconds-remaining" => 63200,
 //  "can-extend-session" => true
-  "captive" => false,
+  "captive" => true,
 	"user-portal-url" => "https://capport.net/?ClientIP=111.119.178.176",
 	"venue-info-url" => "https://capport.net/r?url=https://capport.net",
 	"seconds-remaining" => 57513,
