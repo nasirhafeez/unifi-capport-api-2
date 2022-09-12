@@ -9,7 +9,7 @@ $jsonData = [
 //  "seconds-remaining" => 63200,
 //  "can-extend-session" => true
   "captive" => true,
-	"user-portal-url" => "https://capport.net/?ClientIP=111.119.178.176",
+	"user-portal-url" => "https://www.nasirhafeez.com",
 	"venue-info-url" => "https://capport.net/r?url=https://capport.net",
 	"seconds-remaining" => 57513,
 	"can-extend-session" => true
