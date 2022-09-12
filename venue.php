@@ -13,6 +13,6 @@ print_r($_REQUEST);
   <meta http-equiv="refresh" content="5;url=https://www.google.com" />
 </head>
 <body>
-<p>Venue Test</p>
+<p>Venue Test!</p>
 </body>
 </html>
