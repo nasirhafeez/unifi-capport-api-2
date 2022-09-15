@@ -8,7 +8,7 @@ $jsonData = [
 //  "venue-info-url" => "https://apiserver.nasirhafeez.com",
 //  "seconds-remaining" => 63200,
 //  "can-extend-session" => true
-  "captive" => false,
+  "captive" => true,
 	"user-portal-url" => "https://apiserver.nasirhafeez.com/portal.php",
 	"venue-info-url" => "https://apiserver.nasirhafeez.com/venue.php",
 	"seconds-remaining" => 57513,
@@ -16,3 +16,5 @@ $jsonData = [
 ];
 
 echo json_encode($jsonData, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
+
+?>
