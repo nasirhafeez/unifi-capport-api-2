@@ -15,4 +15,3 @@ $jsonData = [
 
 echo json_encode($jsonData, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
 
-?>
