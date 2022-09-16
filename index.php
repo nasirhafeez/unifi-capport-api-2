@@ -4,7 +4,7 @@ header( "Content-type: application/captive+json" );
 
 $jsonData = [
   "captive" => false,
-	"user-portal-url" => "https://apiserver.nasirhafeez.com/portal.php",
+	"user-portal-url" => "https://capport.nasirhafeez.com",
 	"venue-info-url" => "https://apiserver.nasirhafeez.com/venue.html"
 ];
 
